@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "movie-gpt-ebe12",
+    "dev": "movie-gpt-ebe12"
+  },
+  "targets": {},
+  "etags": {}
+}
